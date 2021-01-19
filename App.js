@@ -42,7 +42,7 @@ const App: () => React$Node = () => {
           )}
           <View style={styles.body}>
             <BannerAd
-              unitId={'/6499/example/banner'}
+              unitId={'/22086969714/native-banner'}
               // unitId={TestIds.BANNER}
               size={'BANNER'}
               requestOptions={{
