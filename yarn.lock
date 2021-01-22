@@ -1139,10 +1139,10 @@
   resolved "https://registry.yarnpkg.com/@react-native-firebase/admob/-/admob-10.4.1.tgz#24bbf5f962b7b0b96f3c48b5b4c94cef9334fb71"
   integrity sha512-sk03gseq5Xjtqe2zwsODhdz3V7JNX1mcPqKlV8v956SbmZjzt/CKvVe7VIxE5Mri/VjrRL2KoaJ9gwurFhMdIw==
 
-"@react-native-firebase/app@^10.4.0":
-  version "10.4.0"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-10.4.0.tgz#f0de2117ac36f58abb690c7b0560207b42d80482"
-  integrity sha512-X+4VS3AlLs1TwQLjFZAfT6SbjeWoSsxf5P+21fJWriHNo3Qv3k8G8TgqXjiNZizWW1FUlhJdVKb+v38yrudjag==
+"@react-native-firebase/app@^10.5.0":
+  version "10.5.0"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-10.5.0.tgz#aa46cd3a62d2117914a6f81ffea0d1b3b9ef15c6"
+  integrity sha512-pEINud4A90RlwfTcE51m/5cOEGI4jiSi5Q4jsQ5UGGlsYqtbOw4Ja7b17x19o2OViJEQVjScpq4pH2bq9vie7Q==
   dependencies:
     opencollective-postinstall "^2.0.1"
     superstruct "^0.6.2"
